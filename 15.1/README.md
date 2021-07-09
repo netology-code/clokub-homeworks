@@ -28,10 +28,10 @@
 
 Документация по AWS-ресурсам:
 
-● [Getting started with Client VPN](https://docs.aws.amazon.com/vpn/latest/clientvpn-admin/cvpn-getting-started.html)
+- [Getting started with Client VPN](https://docs.aws.amazon.com/vpn/latest/clientvpn-admin/cvpn-getting-started.html)
 
 Модули terraform
 
-● [VPC](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/vpc)
-● [Subnet](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/subnet)
-● [Internet Gateway](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/internet_gateway)
+- [VPC](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/vpc)
+- [Subnet](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/subnet)
+- [Internet Gateway](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/internet_gateway)
