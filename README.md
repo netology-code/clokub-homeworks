@@ -23,7 +23,7 @@
 
 ## Модуль 15. Организация проекта при помощи облачных провайдеров
 
-15.1. [Организация сети](https://github.com/netology-code/clokub-homeworks/tree/main/15.1)
+15.1. [Организация сети](https://github.com/netology-code/clokub-homeworks/blob/main/15.1/README.md)
 
 15.3. [Вычислительные мощности. Балансировщики нагрузки]()
 
