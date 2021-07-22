@@ -1,0 +1,28 @@
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: netology-14.3
+spec:
+  containers:
+  - name: myapp
+    image: fedora:latest
+    command: ['/bin/bash', '-c']
+    args: ["env; ls -la /etc/nginx/conf.d"]
+    env:
+      - name: SPECIAL_LEVEL_KEY
+        valueFrom:
+          configMapKeyRef:
+            name: nginx-config
+            key: nginx.conf
+    envFrom:
+      - configMapRef:
+          name: nginx-config
+    volumeMounts:
+      - name: config
+        mountPath: /etc/nginx/conf.d
+        readOnly: true
+  volumes:
+  - name: config
+    configMap:
+      name: nginx-config

@@ -1,0 +1,10 @@
+server {
+    listen 80;
+    server_name  {{ domain }} www.{{ domain }};
+    access_log  /var/log/nginx/domains/{{ domain }}-access.log  main;
+    error_log   /var/log/nginx/domains/{{ domain }}-error.log info;
+    location / {
+        include proxy_params;
+        proxy_pass http://{{ ip }}:8080/;
+    }
+}
