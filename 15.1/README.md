@@ -2,8 +2,9 @@
 
 Домашнее задание будет состоять из обязательной части, которую необходимо выполнить на провайдере Яндекс.Облако и дополнительной части в AWS по желанию. Все домашние задания в 15 блоке связаны друг с другом и в конце представляют пример законченной инфраструктуры.  
 Все задания требуется выполнить с помощью Terraform, результатом выполненного домашнего задания будет код в репозитории. 
-Перед началом работ следует настроить доступ до облачных ресурсов из Terraform, используя материалы прошлых лекций и [ДЗ](https://github.com/netology-code/virt-homeworks/tree/master/07-terraform-02-syntax ). А также заранее выбрать регион (в случае AWS) и зону.
 
+Перед началом работ следует настроить доступ до облачных ресурсов из Terraform используя материалы прошлых лекций и [ДЗ](https://github.com/netology-code/virt-homeworks/tree/master/07-terraform-02-syntax ). А также заранее выбрать регион (в случае AWS) и зону
+---
 ## Вариант с Яндекс.Облако. (Обязательная часть)
 
 1. Создать VPC.
@@ -21,7 +22,7 @@ Resource terraform для ЯО
 - [VPC subnet](https://registry.terraform.io/providers/yandex-cloud/yandex/latest/docs/resources/vpc_subnet)
 - [Route table](https://registry.terraform.io/providers/yandex-cloud/yandex/latest/docs/resources/vpc_route_table)
 - [Compute Instance](https://registry.terraform.io/providers/yandex-cloud/yandex/latest/docs/resources/compute_instance)
-
+---
 ## Вариант с  AWS. (Дополнительная часть)
 
 1. Создать VPC.
