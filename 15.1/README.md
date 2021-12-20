@@ -23,7 +23,7 @@ Resource terraform для ЯО
 - [Route table](https://registry.terraform.io/providers/yandex-cloud/yandex/latest/docs/resources/vpc_route_table)
 - [Compute Instance](https://registry.terraform.io/providers/yandex-cloud/yandex/latest/docs/resources/compute_instance)
 ---
-## Задание 2*. AWS (необязательная к выполнению)
+## Задание 2*. AWS (необязательное к выполнению)
 
 1. Создать VPC.
 - Cоздать пустую VPC с подсетью 10.10.0.0/16.
