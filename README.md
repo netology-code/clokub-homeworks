@@ -29,4 +29,4 @@
 
 15.3. [Контексты безопасности. Менеджеры секретов](https://github.com/netology-code/clokub-homeworks/blob/clokub-5/15.3.md)
 
-15.4. [Кластеры. Ресурсы под управлением облачным провайдером]()
+15.4. [Кластеры. Ресурсы под управлением облачным провайдером](https://github.com/netology-code/clokub-homeworks/blob/clokub-5/15.4.md)
