@@ -5,7 +5,7 @@
 
 Перед началом работ следует настроить доступ до облачных ресурсов из Terraform используя материалы прошлых лекций и [ДЗ](https://github.com/netology-code/virt-homeworks/tree/master/07-terraform-02-syntax ). А также заранее выбрать регион (в случае AWS) и зону
 ---
-## Вариант с Яндекс.Облако. (Обязательная часть)
+## Задание 1. Яндекс.Облако (обязательное к выполнению)
 
 1. Создать VPC.
 - Создать пустую VPC. Выбрать зону.
@@ -23,7 +23,7 @@ Resource terraform для ЯО
 - [Route table](https://registry.terraform.io/providers/yandex-cloud/yandex/latest/docs/resources/vpc_route_table)
 - [Compute Instance](https://registry.terraform.io/providers/yandex-cloud/yandex/latest/docs/resources/compute_instance)
 ---
-## Вариант с  AWS. (Дополнительная часть)
+## Задание 2*. AWS (необязательное к выполнению)
 
 1. Создать VPC.
 - Cоздать пустую VPC с подсетью 10.10.0.0/16.
