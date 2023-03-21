@@ -8,25 +8,25 @@
 
 Любые вопросы по решению задач задавайте в чате учебной группы (ссылку вы найдете в письме на вашей эл. почте).
 
-## Модуль 14. Сетевая безопасность в Kubernetes
+## Модуль «Сетевая безопасность в Kubernetes»
 
-14.1. [Создание и использование секретов](14.1.md)
+1. [Создание и использование секретов](14.1.md)
 
-14.2. [Синхронизация секретов с внешними сервисами. Vault](14.2.md)
+2. [Синхронизация секретов с внешними сервисами. Vault](14.2.md)
 
-14.3. [Карты конфигураций](14.3.md)
+3. [Карты конфигураций](14.3.md)
 
-14.4. [Сервис-аккаунты](14.4.md)
+4. [Сервис-аккаунты](14.4.md)
 
-14.5. [SecurityContext, NetworkPolicies](14.5.md)
+5. [SecurityContext, NetworkPolicies](14.5.md)
 
 
-## Модуль 15. Организация проекта при помощи облачных провайдеров
+## Модуль «Организация проекта при помощи облачных провайдеров»
 
-15.1. [Организация сети в Cloud Provider](https://github.com/netology-code/clokub-homeworks/tree/clokub-5/15.1)
+1. [Организация сети в Cloud Provider](https://github.com/netology-code/clokub-homeworks/tree/clokub-5/15.1)
 
-15.2. [Вычислительные мощности. Балансировщики нагрузки в Cloud Provider](https://github.com/netology-code/clokub-homeworks/blob/clokub-5/15-2.md)
+2. [Вычислительные мощности. Балансировщики нагрузки в Cloud Provider](https://github.com/netology-code/clokub-homeworks/blob/clokub-5/15-2.md)
 
-15.3. [Безопасность в облачных провайдерах](https://github.com/netology-code/clokub-homeworks/blob/clokub-5/15.3.md)
+3. [Безопасность в облачных провайдерах](https://github.com/netology-code/clokub-homeworks/blob/clokub-5/15.3.md)
 
-15.4. [Кластеры. Ресурсы под управлением облачным провайдером](https://github.com/netology-code/clokub-homeworks/blob/clokub-5/15.4.md)
+4. [Кластеры. Ресурсы под управлением облачным провайдером](https://github.com/netology-code/clokub-homeworks/blob/clokub-5/15.4.md)
